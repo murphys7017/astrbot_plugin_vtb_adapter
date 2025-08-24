@@ -2,7 +2,8 @@
 
 
 ## 🌟 适配器简介  
-Open LLM TVB 适配器是一个为 AstrBot 设计的插件，用于连接 AstrBot 与 Open LLM TVB 平台。该插件支持机器人与虚拟主播进行实时交互，实现消息接收、指令响应、情感分析等功能，轻松拓展虚拟主播的智能交互能力。  
+Open LLM TVB 适配器是一个为 AstrBot 设计的插件，用于连接 AstrBot 与 Open LLM VTuber 平台。该插件支持机器人与虚拟主播进行实时交互，实现消息接收。  
+
 
 
 ## 🚀 快速使用指南  

@@ -1,4 +1,4 @@
-# 🎮 Open LLM TVB 适配器
+# 🎮 Open LLM VTuber 适配器
 
 
 ## 🌟 适配器简介  

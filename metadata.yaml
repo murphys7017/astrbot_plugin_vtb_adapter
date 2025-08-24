@@ -1,0 +1,5 @@
+name: vtb_adapter # 这是你的插件的唯一识别名。
+desc: 给astrbot增加open llm vtb的适配器 # 插件简短描述
+version: v0.0.1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: YakumoAki # 作者
+repo: https://github.com/YakumoAki/astrbot_plugin_vtb_adapter # 插件的仓库地址

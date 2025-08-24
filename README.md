@@ -37,7 +37,7 @@ Open LLM TVB 适配器是一个为 AstrBot 设计的插件，用于连接 AstrBo
         # 中断方法：'system' 或 'user'
         interrupt_method: 'user'
 ```
- 2. 除了需要像1中一样修改conf.yml，还需要修改如下文件：
+ 2. 如果不直接替换，除了需要像1中一样修改conf.yml，还需要修改如下文件：
    - 将Open-LLM-VTuber\src\open_llm_vtuber\agent\agents\astr_agent.py 复制到Open LLM VTuber 同一位置
    - 修改Open-LLM-VTuber\src\open_llm_vtuber\agent\agent_factory.py，添加如下代码：
 ```python
